@@ -1,12 +1,19 @@
-# React + Vite
+# Galerie — Digital Art Reimagined ✨
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Galerie turns iconic artworks into collectible onchain moments. Built with React, Vite, and Sui, the experience blends gallery storytelling with Web3 utility. 🎨
 
-Currently, two official plugins are available:
+## Features
+- Responsive landing page with smooth scroll sections for story, process, and market insights. 🌀
+- Ecosystem spotlight featuring Sui, Enoki, and community partners. 🤝
+- Mailto contact links in header and footer for quick reach-outs. ✉️
+- Shop and catalogue CTAs pointing to the live Galerie app. 🛍️
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Getting Started
+```bash
+npm install
+npm run dev
+```
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Deployments
+- Landing page: `https://galerie-com.vercel.app/`
+- App : `https://app-galerie-com.vercel.app/`
